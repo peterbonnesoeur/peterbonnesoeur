@@ -29,6 +29,33 @@
 </a>
 
 
+## Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![GO](https://img.shields.io/badge/-GO-000?&logo=GO)
+![dbt](https://img.shields.io/static/v1?style=for-the-badge&message=dbt&color=FF694B&logo=dbt&logoColor=FFFFFF&label=)
+
+<!--![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+<>
+-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+>>![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+>>![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+>>![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+>>![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+-->
+## Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Google Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cloud&color=4285F4&logo=Google+Cloud&logoColor=FFFFFF&label=)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Snowflake](https://img.shields.io/static/v1?style=for-the-badge&message=Snowflake&color=222222&logo=Snowflake&logoColor=29B5E8&label=)
+![Apache Airflow](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Airflow&color=017CEE&logo=Apache+Airflow&logoColor=FFFFFF&label=)
 
 
 ## 📫 **How to reach me**
