@@ -59,20 +59,10 @@
 
 
 ## 📫 **How to reach me**
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
+You can reach me at the email in my github profile. You would also be one of the greatest human alive if you decide to follow my socials 	&#x1F601;!
 
 [<img src="https://github.com/peterbonnesoeur/peterbonnesoeur/blob/main/social/linkedin.png" height="40em" align="center" alt="Follow peterbonnesoeur on LinkedIn" title="Follow peterbonnesoeur on LinkedIn (Face reveal imminent)"/>](https://www.linkedin.com/in/maxime-bonnesoeur/?locale=en_US)
 [<img src="https://github.com/peterbonnesoeur/peterbonnesoeur/blob/main/social/twitter.svg" height="40em" align="center" alt="Follow peterbonnesoeur on Twitter" title="Follow peterbonnesoeur on Twitter"/>](https://twitter.com/peterbonnesoeu)
 [<img src="https://github.com/peterbonnesoeur/peterbonnesoeur/blob/main/social/medium.svg" height="40em" align="center" alt="Follow peterbonnesoeur on Medium" title="Follow peterbonnesoeur on Medium"/>](https://medium.com/@peterbonnesoeur)
 [<img src="https://github.com/peterbonnesoeur/peterbonnesoeur/blob/main/social/huggingface.png" height="40em" align="center" alt="See peterbonnesoeur's work at HuggingFace" title="See peterbonnesoeur's work at HuggingFace"/>](https://www.kaggle.com/peterbonnesoeur)
 [<img src="https://github.com/peterbonnesoeur/peterbonnesoeur/blob/main/social/kaggle-icon.svg" height="40em" align="center" alt="FSee peterbonnesoeur's work on Kaggle" title="See peterbonnesoeur's work on Kaggle"/>](https://huggingface.co/peterbonnesoeur)
-<!---
-
-<a href="https://github.com/peterbonnesoeur/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peterbonnesoeur&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/peterbonnesoeur/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peterbonnesoeur&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
--->
