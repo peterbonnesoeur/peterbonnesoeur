@@ -24,9 +24,8 @@
 <a href="https://github.com/peterbonnesoeur/peterbonnesoeur">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=peterbonnesoeur&show_icons=true&line_height=27&theme=merko&count_private=true" alt="Peterbonnesoeur's Github stats" />
 </a>
-<a href="https://github.com/peterbonnesoeur/peterbonnesoeur">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterbonnesoeur&theme=merko&hide=java,html,tex&langs_count=3" alt="Peterbonnesoeur's Github top languages" />
-</a>
+
+
 
 
 ## Languages
