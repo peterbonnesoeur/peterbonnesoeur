@@ -12,7 +12,7 @@
 
 ## 🤓 Quick presentation:
 
-- 🔭 I’m currently working at [Visium](https://www.visium.ch/) as a Junior Machine Learning engineer.
+- 🔭 I’m currently working at [Visium](https://www.visium.ch/) as a Machine Learning engineer.
 
 ## 🎯 What is the purpose of this profile
 
