@@ -33,8 +33,14 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=peterbonnesoeur&show_icons=true&line_height=27&theme=merko&count_private=true" alt="Peterbonnesoeur's Github stats" />
 </a>
 
+## 🏆 **Kaggle Stats** 
 
+(Not quite there yet but working on it 🦾)
 
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/peterbonnesoeur/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/peterbonnesoeur/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/peterbonnesoeur/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/peterbonnesoeur/discussion)
 
 ## Languages
 
