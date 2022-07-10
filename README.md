@@ -37,11 +37,11 @@
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/peterbonnesoeur/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/peterbonnesoeur/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/peterbonnesoeur/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/peterbonnesoeur/discussion)-->
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/peterbonnesoeur/discussion)
 <a href="https://stackoverflow.com/users/18579772/maxime-bonnesoeur" target="_blank">
 <img alt="StackOverflow"
 src="https://stackoverflow-badge.vercel.app/?userID=18579772" />
-</a>
+</a>-->
 
 
 ## Languages
