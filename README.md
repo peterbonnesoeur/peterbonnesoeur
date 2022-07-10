@@ -14,11 +14,11 @@
 
 ## 🤓 Quick presentation:
 
-- 🔭 I’m currently working at [Visium](https://www.visium.ch/) as a Machine Learning engineer.
+- 🔭 I’m currently working as a Machine Learning engineer / Data Scientist.
 
 ## 🎯 What is the purpose of this profile
 
-- An infinite amount of flex 💪 (but like programming flex, so it is not making me more popular, just weirder)
+- Display the work that I previously performed and give a better landing page to the users searching my profile.
 - I am testing the limits of github actions so this page will host some of my experiences. Hope you like them 😄
 
 ## &#x1f4c8; **GitHub Stats** 
