@@ -14,7 +14,10 @@
 
 ## 🤓 Quick presentation:
 
-- 🔭 I’m currently working as a Machine Learning engineer / Data Scientist.
+- 🔭 I’m currently working as a Data Scientist.
+- Audio system nerd
+- Marathon/ultra trail afficionado
+- LLM enthusiast 🦾
 
 ## 🎯 What is the purpose of this profile
 
